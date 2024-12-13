@@ -7,5 +7,6 @@ void main(){
   runApp(
       MaterialApp(
         home: HomeScreen(),
-      ));
+      )
+      );
 }//main class
