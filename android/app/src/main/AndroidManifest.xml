@@ -19,7 +19,7 @@ STATE" tools:ignore="ProtectedPermissions"/>
 
 
     <application
-        android:label="vid_player"
+        android:label="web_video"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
